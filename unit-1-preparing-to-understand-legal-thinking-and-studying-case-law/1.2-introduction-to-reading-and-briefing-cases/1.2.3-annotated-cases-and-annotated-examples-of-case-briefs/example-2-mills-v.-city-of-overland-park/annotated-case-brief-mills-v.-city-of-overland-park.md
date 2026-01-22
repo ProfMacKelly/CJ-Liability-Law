@@ -44,11 +44,11 @@ Was there a violation of a legal duty? Did the officers owe a "special duty" to 
 
 Courts identify issues in different places in an opinion and in different ways, which is another reason why, pragmatically, briefs shouldn't be drafted while reading a case for the first time. Here, the court waited quite some time to state the issue.
 
-Here is some additional context about the issue, which fundamentally relates to the tort of [negligence](https://www.law.cornell.edu/wex/negligence). (Negligence is discussed thoroughly in Ch. 3 of the text.) "[Wrongful death](https://www.law.cornell.edu/wex/wrongful\_death\_action)" is a civil [cause of action ](https://www.law.cornell.edu/wex/cause\_of\_action)that can arise from either an intentional act or negligence (which is unintentional, i.e., accidental).&#x20;
+Here is some additional context about the issue, which fundamentally relates to the tort of [negligence](https://www.law.cornell.edu/wex/negligence). (Negligence is discussed thoroughly in Ch. 3 of the text.) "[Wrongful death](https://www.law.cornell.edu/wex/wrongful_death_action)" is a civil [cause of action ](https://www.law.cornell.edu/wex/cause_of_action)that can arise from either an intentional act or negligence (which is unintentional, i.e., accidental).&#x20;
 
-To properly allege a case of negligence, the plaintiff must certain [elements](https://www.law.cornell.edu/wex/element): **(1)** allege that a [legal duty of care](https://www.law.cornell.edu/wex/legal\_duty) owed to the plaintiff existed (which can be statutory, common law, or contractual), **(2)** allege that the duty of care was[ breached](#user-content-fn-1)[^1] by the defendant's actions or inactions[^2], and **(3)** that the breach of duty caused harm/damages.&#x20;
+To properly allege a case of negligence, the plaintiff must certain [elements](https://www.law.cornell.edu/wex/element): **(1)** allege that a [legal duty of care](https://www.law.cornell.edu/wex/legal_duty) owed to the plaintiff existed (which can be statutory, common law, or contractual), **(2)** allege that the duty of care was[ breached](#user-content-fn-1)[^1] by the defendant's actions or inactions[^2], and **(3)** that the breach of duty caused harm/damages.&#x20;
 
-In this case, the court is grappling with whether the duty of care that the plaintiff alleged was actually a legal duty that the officers owed to Mills in these circumstances. Additionally, liability to Mills required that there was a clearly stated and absolute legal obligation to protect Mills' safety (which is called a [ministerial duty to act](https://www.law.cornell.edu/wex/ministerial\_act)). However, if the officers legally had the [discretion ](https://www.law.cornell.edu/wex/discretionary)to choose whether to protect Mills, then they had no duty to Mills and could not be liable.
+In this case, the court is grappling with whether the duty of care that the plaintiff alleged was actually a legal duty that the officers owed to Mills in these circumstances. Additionally, liability to Mills required that there was a clearly stated and absolute legal obligation to protect Mills' safety (which is called a [ministerial duty to act](https://www.law.cornell.edu/wex/ministerial_act)). However, if the officers legally had the [discretion ](https://www.law.cornell.edu/wex/discretionary)to choose whether to protect Mills, then they had no duty to Mills and could not be liable.
 
 </details>
 
@@ -82,9 +82,7 @@ Because the relevant policy (e.g., guideline/SOP) did not use language that remo
 
 <summary><mark style="color:red;"><strong>License</strong></mark></summary>
 
-[ <img src="https://chooser-beta.creativecommons.org/img/cc-logo.f0ab4ebe.svg" alt="" data-size="line"><img src="https://chooser-beta.creativecommons.org/img/cc-by.21b728bb.svg" alt="" data-size="line"><img src="https://chooser-beta.creativecommons.org/img/cc-nc.218f18fc.svg" alt="" data-size="line"><img src="https://chooser-beta.creativecommons.org/img/cc-sa.d1572b71.svg" alt="" data-size="line">](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1)
-
-[Annotated Case Brief: _Mills v. City of Overland Park_](annotated-case-brief-mills-v.-city-of-overland-park.md) © 2024 by Matthew L. Mac Kelly is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1), except where otherwise noted.
+This page by Matthew L. Mac Kelly is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1), except where otherwise noted. <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" data-size="line"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" data-size="line"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" data-size="line"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" data-size="line">&#x20;
 
 </details>
 
