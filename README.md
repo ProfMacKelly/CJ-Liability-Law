@@ -6,7 +6,9 @@
 
 ## What is This Sourcebook?
 
-This interactive sourcebook is an [open educational resource](#user-content-fn-1)[^1]. Although it is openly licensed and free to be reused and redistributed, readers should note that the contents are tailored to serve undergraduate students enrolled in Criminal Justice Liability Law at Concordia University Wisconsin. This sourcebook includes both content that (a) I authored, (b) I [adapted or remixed](https://help.oercommons.org/support/solutions/articles/42000046860-remix-a-resource), and/or (c) incorporated from other creators in compliance with copyright and licensing regulations and practices.  \~ _Prof. Matt Mac Kelly_
+This book [openly licensed](#user-content-fn-1)[^1] and free to be reused, redistributed, [adapted, and/or remixed](https://help.oercommons.org/support/solutions/articles/42000046860-remix-a-resource). It includes both content that was authored by Matthew L. Mac Kelly and adapted, remixed, and/or incorporated from other creators in compliance with copyright and licensing regulations and practices.  Attributions and licensing information is identified on each page.
+
+\~ _Matt Mac Kelly, JD, EdD_
 
 ## How to Use This Sourcebook
 
@@ -72,7 +74,7 @@ This page is marked with [CC0 1.0](https://creativecommons.org/publicdomain/zero
 
 </details>
 
-[^1]: Free educational material that is openly licensed to enable reuse and redistribution by users ([Elder, 2019](https://iastate.pressbooks.pub/oerstarterkit/chapter/introduction/)). 
+[^1]: See the Front Matter for more information.
 
 [^2]: Such as this: [**How Annotations Work in This Sourcebook**](./#how-annotations-work-in-this-sourcebook), below. Click the carrot (**>**) on the left side of the widget to expand and reveal its contents.
 
