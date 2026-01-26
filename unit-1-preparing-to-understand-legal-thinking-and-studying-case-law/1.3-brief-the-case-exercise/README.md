@@ -1,3 +1,15 @@
 # 1.3 Brief the Case Exercise
 
-Prepare a case brief for [_Estate of Cavanaugh v. Andrade_](estate-of-cavanaugh-v.-andrade.md)_._
+{% stepper %}
+{% step %}
+{% content-ref url="estate-of-cavanaugh-v.-andrade.md" %}
+[estate-of-cavanaugh-v.-andrade.md](estate-of-cavanaugh-v.-andrade.md)
+{% endcontent-ref %}
+{% endstep %}
+
+{% step %}
+{% content-ref url="model-brief-for-brief-the-case-exercise.md" %}
+[model-brief-for-brief-the-case-exercise.md](model-brief-for-brief-the-case-exercise.md)
+{% endcontent-ref %}
+{% endstep %}
+{% endstepper %}
