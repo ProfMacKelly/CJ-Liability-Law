@@ -20,6 +20,8 @@
 {% endstep %}
 
 {% step %}
-
+{% content-ref url="brief-the-case-exercise/" %}
+[brief-the-case-exercise](brief-the-case-exercise/)
+{% endcontent-ref %}
 {% endstep %}
 {% endstepper %}
