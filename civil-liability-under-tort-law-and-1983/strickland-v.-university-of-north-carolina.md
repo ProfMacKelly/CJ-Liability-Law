@@ -1,10 +1,6 @@
 # Strickland v. University of North Carolina
 
-\[Note: Edited from the [<mark style="color:blue;">original</mark>](https://scholar.google.com/scholar_case?case=5287003085729716521\&hl=en\&as_sdt=6,50).]
-
-***
-
-712 S.E.2d 888 (N.C. Ct. App. 2011)
+[712 S.E.2d 888](https://scholar.google.com/scholar_case?case=5287003085729716521\&hl=en\&as_sdt=6,50) (N.C. Ct. App. 2011)
 
 Court of Appeals of North Carolina
 
@@ -83,6 +79,10 @@ N.C. Gen. Stat. § 143-291(a) (2009).
 3 We also note that section 143-299.1A of the Tort Claims Act, applicable to causes of action arising on or after 1 October 2008, provides that the public duty doctrine is only a defense for (1) law enforcement failure to protect from acts of third parties and acts of God, and (2) failure to perform health or safety inspections. N.C. Gen. Stat. § 143-299.1A (2009).
 
 4 Indeed, this Court has held that the public duty doctrine only applies to duty and not causation, _Drewry v. N.C. Dept. of Transp.,_ [607 S.E.2d 342, 346-47](https://scholar.google.com/scholar_case?case=13573830901051779017\&q=607+S.E.2d+342\&hl=en\&as_sdt=6,50#p346) \[...], and that the normal rules of negligence, including proximate cause, apply in the Tort Claims Act context. _Barney v. N.C. State Highway Comm’n,_ [192 S.E.2d 273, 277 ](https://scholar.google.com/scholar_case?case=11272687004691083658\&q=192+S.E.2d+273\&hl=en\&as_sdt=6,50#p277)(1972) (“Under the Tort Claims Act\[,] negligence, contributory negligence and proximate cause .. . are to be determined under the same rules as those applicable to litigation between private individuals.” (quoting _MacFarlane v. Wildlife Res. Comm’n,_ [93 S.E.2d 557](https://scholar.google.com/scholar_case?case=16050727453301522247\&q=93+S.E.2d+557\&hl=en\&as_sdt=6,50) (1956))). Accordingly, in a case such as this, where the breach is the first link in a multi-link chain of causation (negligent provision of inaccurate information caused a high state of alarm, caused an ERT member to mistake a battering ram for a gunshot, caused the ERT member to fire his weapon, caused Strickland to die), liability is not precluded solely because the allegedly negligent act is not the last link in the chain of causation.
+
+***
+
+{% include "https://app.gitbook.com/s/gb3latek59GhBxzDZlwy/~/reusable/VVV3MblY7al6IPoY3ViP/" %}
 
 [^1]: A motion for "summary judgment" is a motion asking the court to enter judgment in the moving party's favor, based on the argument that (1) there are no factual issues for a jury to decide, so the court can make a ruling based on the law without a jury and (2) the law favors the moving party. To learn more, [see here.](https://www.law.cornell.edu/wex/summary_judgment)
 
