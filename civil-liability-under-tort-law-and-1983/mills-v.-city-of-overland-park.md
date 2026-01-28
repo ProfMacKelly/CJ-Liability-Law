@@ -1,10 +1,6 @@
 # Mills v. City of Overland Park
 
-\[Note: Edited from the [<mark style="color:blue;">original</mark>](https://www.courtlistener.com/opinion/1179814/mills-v-city-of-overland-park/?q=\&type=o\&order_by=score%20desc\&stat_Precedential=on\&citation=251%20Kan.%20434)]
-
-***
-
-251 Kan. 434, 837 P.2d 370 (1992)
+[251 Kan. 434, 837 P.2d 370](https://www.courtlistener.com/opinion/1179814/mills-v-city-of-overland-park/?q=\&type=o\&order_by=score%20desc\&stat_Precedential=on\&citation=251%20Kan.%20434) (1992)
 
 Kansas Supreme court
 
@@ -19,7 +15,7 @@ The opinion of the court was delivered by McFarland, J.:
 
 This is a wrongful death and survivorship action seeking damages arising from the death of Timothy R. Mills. The [district court](#user-content-fn-1)[^1] granted [summary judgment](#user-content-fn-2)[^2] in favor of the defendants, and plaintiffs appeal therefrom.
 
-## \[Facts]&#x20;
+## \[Background]&#x20;
 
 The facts may be summarized as follows. Timothy Mills was 19 years old at the time of the events in issue. On the afternoon of December 26, 1987, he and his friend Tom Tracy met and began drinking. They first went to the Shawnee Village Bowl, then drove around awhile drinking beer and wine coolers, purchased from liquor stores.
 
@@ -164,6 +160,10 @@ It should be noted, before leaving this point, that plaintiffs contend that the 
 \[...]
 
 The judgment is affirmed.
+
+***
+
+{% include "https://app.gitbook.com/s/gb3latek59GhBxzDZlwy/~/reusable/VVV3MblY7al6IPoY3ViP/" %}
 
 [^1]: This is what state trial courts are called in Kansas.
 

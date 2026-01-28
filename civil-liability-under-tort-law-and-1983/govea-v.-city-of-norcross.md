@@ -1,17 +1,13 @@
 # Govea v. City of Norcross
 
-\[Note: Edited from the [<mark style="color:blue;">original</mark>](https://scholar.google.com/scholar_case?case=6547454138566555309\&q=608+S.E.2d+677\&hl=en\&as_sdt=6,50)]
-
-***
-
-271 Ga. App. 36, 608 S.E.2d 677 (2004)
+[271 Ga. App. 36, 608 S.E.2d 677](https://scholar.google.com/scholar_case?case=6547454138566555309\&q=608+S.E.2d+677\&hl=en\&as_sdt=6,50) (2004)
 
 Court of Appeals of Georgia
 
 **Govea et al.**\
 **v.**\
 **City of Norcross et al.**\
-\
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**\
 **City of Chamblee**\
 **v.**\
 **Govea et al.**
@@ -24,7 +20,7 @@ Phipps, Judge.
 
 On August 11, 2001, 13-year-old Jairo Govea Gomez fatally shot himself with a police service weapon that had been handed to him by Timothy Heiberger, a police officer with the police department of the City of Chamblee (“Chamblee”) and a former police officer with the police department of the City of Norcross (“Norcross”). Jairo’s parents, David Govea and Teresa Gomez, filed a wrongful death action against Chamblee and Norcross.[\[1\]](https://scholar.google.com/scholar_case?case=6547454138566555309\&q=608+S.E.2d+677\&hl=en\&as_sdt=6,50#\[1]) They <mark style="background-color:yellow;">alleged that, through negligent acts and omissions attributable to both municipalities, Heiberger procured a police officer position with Chamblee; that through such employment, Heiberger established a relationship with Jairo; and that this relationship brought about the circumstances that ended Jairo’s life.</mark>
 
-On cross-motions for [summary judgment](https://www.law.cornell.edu/wex/summary_judgment), the trial court granted Norcross’s motion and denied the other parties’ motions. In Case No. A04A0956, Govea and Gomez appeal the grant of summary judgment to Norcross and the denial of their motion for partial summary judgment against Norcross. In Case No. A04A0957, Chamblee appeals the denial of its motion. Because no party has shown that it was entitled to summary judgment, \[these issues should have proceeded to trial for a jury determination].
+On cross-motions for [summary judgment](https://app.gitbook.com/s/PEVQa5Y7sEH4NQmEHPgd/glossary#summary-judgment), the trial court granted Norcross’s motion and denied the other parties’ motions. In Case No. A04A0956, Govea and Gomez appeal the grant of summary judgment to Norcross and the denial of their motion for partial summary judgment against Norcross. In Case No. A04A0957, Chamblee appeals the denial of its motion. Because no party has shown that it was entitled to summary judgment, \[these issues should have proceeded to trial for a jury determination].
 
 Summary judgment is proper when there is no genuine issue of material fact and the movant is entitled to judgment as a matter of law.<mark style="color:blue;">\[</mark>[<mark style="color:blue;">2</mark>](https://scholar.google.com/scholar_case?case=6547454138566555309\&q=608+S.E.2d+677\&hl=en\&as_sdt=6,50#\[2])<mark style="color:blue;">]</mark> We review a grant or denial of summary judgment de novo and construe the evidence in the light most favorable to the nonmovant.[<mark style="color:blue;">\[3\]</mark>](https://scholar.google.com/scholar_case?case=6547454138566555309\&q=608+S.E.2d+677\&hl=en\&as_sdt=6,50#\[3])
 
@@ -48,7 +44,7 @@ On the day of the shooting, Heiberger encountered Jairo near the family store. W
 
 Govea and Gomez sought damages for the wrongful death of their son.[\[4\]](https://scholar.google.com/scholar_case?case=6547454138566555309\&q=608+S.E.2d+677\&hl=en\&as_sdt=6,50#\[4]) With regard to Norcross, they alleged that it had misrepresented Heiberger’s employment record to the POST Council by stating that Heiberger had “voluntarily resigned,” rather than “resigned in lieu of termination,” and that it had “sanitized” Heiberger’s personnel file before allowing Chamblee to review it.&#x20;
 
-Charging [negligence per se](https://www.law.cornell.edu/wex/negligence_per_se) and relying on theories under the [Restatement](https://www.law.cornell.edu/wex/restatement_of_the_law) of Torts, the parents claimed that those acts and omissions violated POST statutes and regulations mandating a law enforcement unit to disclose accurately and fully the circumstances surrounding a peace officer’s termination. With regard to Chamblee, Govea and Gomez alleged that the municipality had negligently hired and retained Heiberger.
+Charging negligence per se and relying on theories under the [Restatement](https://www.law.cornell.edu/wex/restatement_of_the_law) of Torts, the parents claimed that those acts and omissions violated POST statutes and regulations mandating a law enforcement unit to disclose accurately and fully the circumstances surrounding a peace officer’s termination. With regard to Chamblee, Govea and Gomez alleged that the municipality had negligently hired and retained Heiberger.
 
 Govea and Gomez moved for partial summary judgment against Norcross regarding liability, based on the theory of negligence per se. Norcross moved for summary judgment, arguing that it had not misrepresented Heiberger’s employment history, that it had no duty to Govea and Gomez, that the public duty doctrine barred Govea and Gomez’s claims, and that none of its acts or omissions could have proximately caused Jairo’s death.&#x20;
 
