@@ -6,7 +6,7 @@
 
 ## What is This Sourcebook?
 
-This book [openly licensed](#user-content-fn-1)[^1] and free to be reused, redistributed, [adapted, and/or remixed](https://help.oercommons.org/support/solutions/articles/42000046860-remix-a-resource). It includes both content that was authored by Matthew L. Mac Kelly and adapted, remixed, and/or incorporated from other creators in compliance with copyright and licensing regulations and practices.  Attributions and licensing information is identified on each page.
+This book [openly licensed](https://app.gitbook.com/s/PEVQa5Y7sEH4NQmEHPgd/glossary#open-license) and free to be reused, redistributed, [adapted, and/or remixed](https://help.oercommons.org/support/solutions/articles/42000046860-remix-a-resource). It includes both content that was authored by Matthew L. Mac Kelly and adapted, remixed, and/or incorporated from other creators in compliance with copyright and licensing regulations and practices.  Attributions and licensing information is identified on each page.
 
 \~ _Matt Mac Kelly, JD, EdD_
 
@@ -26,13 +26,13 @@ Click on any unit, chapter, and/or section to view its content. Scroll down to r
 
 ### Interactive Elements
 
-Engage with any interactive elements such as links, [annotations](./#how-annotations-work-in-this-sourcebook), [expandable widgets,](#user-content-fn-2)[^2] videos, and other embedded content that may be included in the sourcebook. This can help you better understand the content, and you can receive additional insights. Make sure to spend adequate time on these interactive features to fully benefit from the sourcebook.
+Engage with any interactive elements such as links, [annotations](./#how-annotations-work-in-this-sourcebook), [expandable widgets,](#user-content-fn-1)[^1] videos, and other embedded content that may be included in the sourcebook. This can help you better understand the content, and you can receive additional insights. Make sure to spend adequate time on these interactive features to fully benefit from the sourcebook.
 
 <details>
 
 <summary><mark style="color:red;"><strong>How Annotations Work in This Sourcebook</strong></mark></summary>
 
-The sourcebook's text includes many annotations, which are indicated by text with a dotted underline like this: [This text is annotated.](#user-content-fn-3)[^3] To read the annotation, mouse over the underlined text and click/tap. A bubble will appear and display the annotation. These annotations provide additional context and information while also decluttering the main reading area.&#x20;
+The sourcebook's text includes many annotations, which are indicated by text with a dotted underline like this: [This text is annotated.](#user-content-fn-2)[^2] To read the annotation, mouse over the underlined text and click/tap. A bubble will appear and display the annotation. These annotations provide additional context and information while also decluttering the main reading area.&#x20;
 
 Also, instead of traditional footnotes or endnotes, many references and citations to original source content are located in these annotations.
 
@@ -74,8 +74,6 @@ This page is marked with [CC0 1.0](https://creativecommons.org/publicdomain/zero
 
 </details>
 
-[^1]: See the Front Matter for more information.
+[^1]: Such as this: [**How Annotations Work in This Sourcebook**](./#how-annotations-work-in-this-sourcebook), below. Click the carrot (**>**) on the left side of the widget to expand and reveal its contents.
 
-[^2]: Such as this: [**How Annotations Work in This Sourcebook**](./#how-annotations-work-in-this-sourcebook), below. Click the carrot (**>**) on the left side of the widget to expand and reveal its contents.
-
-[^3]: This is the annotation.
+[^2]: This is the annotation.
