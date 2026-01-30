@@ -81,14 +81,7 @@ hidden: true
 ### Claim Against Andrade
 
 * **Immunity.** Andrade can be immune from decisions to initiate or continue a high-speed pursuit because the relevant language—"may"—is permissive and thus discretionary, and Wis. Stat. § 893.80(4) provides immunity from discretionary decisions.&#x20;
-* However, the duty under Wis. Stat. § 346.03(5) to drive with due regard under the circumstances for the safety of all persons is min
-* **Negligence & Causation.** Although initiating or continuing the pursuit was discr
-
-There was no evidence that Andrade’s operation of the vehicle (e.g., management and control, following too closely, failure to maintain proper lookout) was causally connected to the harm due to the facts that (a) Andrade was one-and-a-half blocks away from the accident and (b) never made physical contact with anything.
-
-Wis. Stat. § 346.03(5)
-
-duty to&#x20;
+* **Negligence & Causation.** Although initiating or continuing the pursuit was discretionary, there was a ministerial duty under Wis. Stat. § 346.03(5) to drive with due regard under the circumstances for the safety of all persons. Yet there was no evidence that Andrade’s operation of the vehicle (e.g., management and control, following too closely, failure to maintain proper lookout) to establish that he breached this ministerial duty. Further if it could be established that he breached a ministerial duty, there is no evidence that this conduct played a causal role in Cavanaugh's death due to the facts that (a) Andrade was one-and-a-half blocks away from the accident and (b) never made physical contact with anything.
 
 {% hint style="info" %}
 **Note to Students:** You probably observed that the rationale regarding the city, the court included reasoning about whether the city breached a duty, but that did not occur here regarding Andrade. The court chose to focus the negligence analysis on whether there was evidence that Andrade’s operation of the vehicle (negligent or otherwise) played a causal role (i.e., a substantial factor) in the harm.&#x20;
